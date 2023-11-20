@@ -1,3 +1,25 @@
+((
+\\``.
+\_`.``-.
+( `.`.` `._
+ `._`-.    `._
+   \`--.   ,' `.
+    `--._  `.  .`.
+     `--.--- `. ` `.
+         `.--  `;  .`._
+           :-   :   ;. `.__,.,__ __
+            `\  :       ,-(     ';o`>.
+              `-.`:   ,'   `._ .:  (,-`,
+                 \    ;      ;.  ,:
+             ,"`-._>-:        ;,'  `---.,---.
+             `>'"  "-`       ,'   "":::::".. `-.
+              `;"'_,  (\`\ _ `:::::::::::'"     `---.
+              `-(_,' -'),)\`.       _      .::::"'  `----._,-"")
+                   \_,': `.-' `-----' `--;-.   `.   ``.`--.____/
+                     `-^--'                \(-.  `.``-.`-=:-.__)
+                                            `  `.`.`._`.-._`--.)
+                                                 `-^---^--.`--
+
 "A Bird Came Down"
 -Emily Dickinson
 
@@ -26,25 +48,45 @@ Too silver for a seam,
 Or butterflies, off banks of noon,
 Leap, splashless, as they swim.
 
-((
-\\``.
-\_`.``-.
-( `.`.` `._
- `._`-.    `._
-   \`--.   ,' `.
-    `--._  `.  .`.
-     `--.--- `. ` `.
-         `.--  `;  .`._
-           :-   :   ;. `.__,.,__ __
-            `\  :       ,-(     ';o`>.
-              `-.`:   ,'   `._ .:  (,-`,
-                 \    ;      ;.  ,:
-             ,"`-._>-:        ;,'  `---.,---.
-             `>'"  "-`       ,'   "":::::".. `-.
-              `;"'_,  (\`\ _ `:::::::::::'"     `---.
-              `-(_,' -'),)\`.       _      .::::"'  `----._,-"")
-                   \_,': `.-' `-----' `--;-.   `.   ``.`--.____/
-                     `-^--'                \(-.  `.``-.`-=:-.__)
-                                            `  `.`.`._`.-._`--.)
-                                                 `-^---^--.`--
+"A poem about everything but the bird in 'A Bird Came Down' by Emily Dickinson"
+-ChatGPT
 
+Beneath the canvas of the open sky,
+A garden blooms where life draws nigh.
+In verdant realms where shadows play,
+Nature weaves its intricate display.
+
+The sun, a golden artist's brush,
+Paints the world in hues so lush.
+Whispers of the wind in trees,
+Compose a symphony with gentle ease.
+
+Upon the stage, the flowers dance,
+Their petals waltzing in a sunlit trance.
+In dew-kissed robes of morning's light,
+They twirl and shimmer, pure and bright.
+
+A babbling brook with liquid song,
+Threads its journey, meandering along.
+Carving tales in earth and stone,
+A timeless melody, a rhythm unknown.
+
+Butterflies, like strokes of living paint,
+Flutter by, a delicate restraint.
+Their vibrant wings in patterns unfold,
+A fleeting beauty, a story untold.
+
+The grass beneath my wandering feet,
+A carpet green, where life's pulses beat.
+Tiny creatures in the soil's embrace,
+Shape the earth with subtle grace.
+
+Clouds above, a shifting dream,
+In billowed masses, a spectral gleam.
+The canvas vast, a cosmic art,
+Where constellations play their part.
+
+So, in the garden of this earthly maze,
+Life unfurls in a myriad of ways.
+In every breath and rustling leaf,
+A universe of wonders, beyond belief.
