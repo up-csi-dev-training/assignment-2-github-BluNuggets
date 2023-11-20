@@ -21,7 +21,7 @@
                                                  `-^---^--.`--
 
 "A Bird Came Down"
--Emily Dickinson
+By: Emily Dickinson
 
 A bird came down the walk:
 He did not know I saw;
@@ -49,7 +49,7 @@ Or butterflies, off banks of noon,
 Leap, splashless, as they swim.
 
 "A poem about everything but the bird in 'A Bird Came Down' by Emily Dickinson"
--ChatGPT
+By: ChatGPT
 
 Beneath the canvas of the open sky,
 A garden blooms where life draws nigh.
